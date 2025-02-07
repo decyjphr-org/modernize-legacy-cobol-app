@@ -6,4 +6,5 @@ When providing mermaid diagrams use a codeblock so that the diagram could be emb
 
 When providing code examples prefer typescript over javascript
 
-When providing examples using Node, use Express JS framework
+When providing examples use the language that is used in the repository except when it is able migrations or translation
+
